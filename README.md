@@ -4,3 +4,5 @@ This script will crawl your FB messages with some particular person and generate
 
 In order to run it create the appropriate venv, use the packages.txt file to install everything and last,
 download the chromium driver above to the same workdir of the script
+
+This script was created to help people who need to supply with "משרד הפנים" (Misrad hapnim) of Israel proofs of contact.
